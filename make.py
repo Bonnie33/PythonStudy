@@ -45,7 +45,7 @@ def handle_comment(comment_path):
 
 
 
-comment('/home/zss/PycharmProjects/homework/res/太空旅客.txt')
+handle_comment('/home/zss/PycharmProjects/homework/res/太空旅客.txt')
 
 
 
